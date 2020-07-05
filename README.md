@@ -1,2 +1,0 @@
-# tshedza-app
-Begin app
